@@ -34,7 +34,7 @@
         "OBJECTID": 1,
         "FO_NUMBER": 603004001,
         "name": "Sport Bubble",
-        "type": "recreation"
+        "type": "Recreation"
       }
     },
     {
@@ -70,7 +70,7 @@
         "OBJECTID": 2,
         "FO_NUMBER": 603004001,
         "name": "Academic Block 1 - Wet Lab",
-        "type": "academic"
+        "type": "Academic"
       }
     },
     {
@@ -106,7 +106,7 @@
         "OBJECTID": 3,
         "FO_NUMBER": 603004001,
         "name": "Academic Block 2 - Yellow and Blue Classrooms",
-        "type": "academic"
+        "type": "Academic"
       }
     },
     {
@@ -142,7 +142,7 @@
         "OBJECTID": 4,
         "FO_NUMBER": 659002001,
         "name": "Block 3 - Administration",
-        "type": "academic"
+        "type": "Academic"
       }
     },
     {
@@ -178,7 +178,7 @@
         "OBJECTID": 5,
         "FO_NUMBER": 603004001,
         "name": "Dorm A",
-        "type": "residential"
+        "type": "Residential"
       }
     },
     {
@@ -214,7 +214,7 @@
         "OBJECTID": 6,
         "FO_NUMBER": 503007001,
         "name": "Dorm B",
-        "type": "residential"
+        "type": "Residential"
       }
     },
     {
@@ -250,7 +250,7 @@
         "OBJECTID": 11,
         "FO_NUMBER": 603004001,
         "name": "Dining Room",
-        "type": "residential"
+        "type": "Residential"
       }
     },
     {
