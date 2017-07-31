@@ -82,7 +82,7 @@
             [
               71.52060985565184,
               37.496107562317064
-            ]]]},"properties":{"name":"Airport","pop2016":18584,"land-sq-km-2016":16.89,"density-number":1100.4,"density-text":"medium"}},
+            ]]]},"properties":{"name":"Airport","pop2016":18584,"land-sq-km-2016":16.89,"density-number":1100.4,"density-text":"low"}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[
               71.52815222740173,
               37.491740675221244
@@ -458,7 +458,7 @@
             [
               71.55046820640564,
               37.48778216513846
-            ]]]},"properties":{"name":"UPD","pop2016":20732,"land-sq-km-2016":12.66,"density-number":1638.2,"density-text":"medium"}},
+            ]]]},"properties":{"name":"UPD","pop2016":20732,"land-sq-km-2016":12.66,"density-number":1638.2,"density-text":"high"}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[ [
               71.54893398284912,
               37.48980826747449
