@@ -71,7 +71,8 @@
         "OBJECTID": 2,
         "FO_NUMBER": 603004001,
         "name": "Academic Block 1 - Wet Lab",
-        "type": "Academic"
+        "type": "Academic",
+        "img": "http://www.ucentralasia.org/Content/photos/128_9.jpg"
       }
     },
     {
@@ -107,7 +108,8 @@
         "OBJECTID": 3,
         "FO_NUMBER": 603004001,
         "name": "Academic Block 2 - Yellow and Blue Classrooms",
-        "type": "Academic"
+        "type": "Academic",
+        "img": "http://www.ucentralasia.org/Content/img-news/1310.jpg"
       }
     },
     {
@@ -143,7 +145,8 @@
         "OBJECTID": 4,
         "FO_NUMBER": 659002001,
         "name": "Block 3 - Administration",
-        "type": "Academic"
+        "type": "Academic",
+        "img": "http://www.ucentralasia.org/Content/img/studentlife/StudyingOnCampus3.jpg"
       }
     },
     {
@@ -179,7 +182,8 @@
         "OBJECTID": 5,
         "FO_NUMBER": 603004001,
         "name": "Dorm A",
-        "type": "Residential"
+        "type": "Residential",
+        "img": "http://www.ucentralasia.org/Content/photos/122_12.jpg"
       }
     },
     {
@@ -215,7 +219,8 @@
         "OBJECTID": 6,
         "FO_NUMBER": 503007001,
         "name": "Dorm B",
-        "type": "Residential"
+        "type": "Residential",
+        "img": "http://www.ucentralasia.org/Content/img/why_choose_uca_6.jpg"
       }
     },
     {
@@ -251,7 +256,8 @@
         "OBJECTID": 11,
         "FO_NUMBER": 603004001,
         "name": "Dining Room",
-        "type": "Residential"
+        "type": "Residential",
+        "img": "http://www.ucentralasia.org/Content/photos/122_7.jpg"
       }
     },
     {
