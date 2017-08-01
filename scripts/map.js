@@ -646,7 +646,7 @@ $(window).on('load', function() {
         focus: true,
         position: getSetting('_mapSearch'),
         zoom: trySetting('_mapSearchZoom', 12),
-        circle: true,
+        circle: false,
         circleRadius: trySetting('_mapSearchCircleRadius', 1),
         autocomplete: true,
       }).addTo(map);
